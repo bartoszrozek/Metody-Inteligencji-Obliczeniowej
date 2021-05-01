@@ -1,0 +1,1 @@
+Zadania dotyczące algorytmów genetycznych
